@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri Mar 29 22:35:16 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : HelloWorldDE10Lite
+Top-level Entity Name : HelloWorldDE10Lite
+Family : MAX 10
+Total logic elements : 25
+    Total combinational functions : 25
+    Dedicated logic registers : 25
+Total registers : 25
+Total pins : 2
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

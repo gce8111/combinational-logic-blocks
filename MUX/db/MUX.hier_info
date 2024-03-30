@@ -1,0 +1,16 @@
+|MUX
+S[0] => out_ledr.IN0
+S[0] => out_ledr.IN0
+S[0] => out_ledr.IN0
+S[0] => out_ledr.IN0
+S[1] => out_ledr.IN1
+S[1] => out_ledr.IN1
+S[1] => out_ledr.IN1
+S[1] => out_ledr.IN1
+I[0] => out_ledr.IN1
+I[1] => out_ledr.IN1
+I[2] => out_ledr.IN1
+I[3] => out_ledr.IN1
+out_ledr << out_ledr.DB_MAX_OUTPUT_PORT_TYPE
+
+

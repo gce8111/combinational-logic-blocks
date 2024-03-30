@@ -1,0 +1,10 @@
+module MUX(
+	input wire cont0_sw,
+	input wire cont1_sw,
+	input wire inpt0_sw,
+	input wire inpt1_sw,
+	input wire inpt2_sw,
+	input wire inpt3_sw,
+	output reg [3:0] out_ledr;
+)
+endmodule
